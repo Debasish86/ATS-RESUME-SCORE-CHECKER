@@ -40,7 +40,7 @@ Steps to Run the Project
 
 Clone the repository:
 
-git clone https://github.com/samalsachin/ATS_SCORE_CHECKER.git cd ATS_SCORE_CHECKER
+git clone https://github.com/Debasish86/ATS-RESUME-SCORE-CHECKER.git cd ATS_SCORE_CHECKER
 
 Set up MySQL database:
 
