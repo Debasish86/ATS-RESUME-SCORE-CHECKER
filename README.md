@@ -16,9 +16,9 @@ Database integration for storing user and resume data
 
 Tech Stack
 
-Frontend: HTML, CSS, JavaScript
+Frontend: Java Swing ,Java fx
 
-Backend: Node.js, Express.js
+Backend: Java 
 
 Database: MySQL
 
@@ -30,7 +30,7 @@ Prerequisites
 
 Ensure you have the following installed:
 
-Node.js
+JAVA 8 AND ABOVE
 
 MySQL
 
@@ -50,11 +50,9 @@ Import the provided SQL schema.
 
 Install backend dependencies:
 
-cd backend npm install
+PLEASE MADE IT USEING THE MAVEN DEPENDENCY
 
 Start the backend server:
-
-node server.js
 
 Open index.html in a browser to use the application.
 
